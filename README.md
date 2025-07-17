@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aditya-s-portfolio-webpage.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aditya-portfolio-theta-sepia.vercel.app/)
 
 - 💬 Ask me about **Frontend, Machine Learning**
 
